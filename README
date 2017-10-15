@@ -2,7 +2,5 @@
 
 ## Genetic Algorithm
 
-```
-$ cd genetic-alg
-$ lein run
-```
+> $ cd genetic-alg
+> $ lein run
