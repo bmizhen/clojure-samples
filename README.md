@@ -1,6 +1,9 @@
-# random bits of clojure
+
+# Random bits of clojure
 
 ## Genetic Algorithm
 
-> $ cd genetic-alg
-> $ lein run
+```
+$ cd genetic-alg
+$ lein run
+```
