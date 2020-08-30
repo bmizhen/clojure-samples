@@ -1,6 +1,7 @@
 
 # Random bits of clojure
 
+
 ## Genetic Algorithm
 
 ```
